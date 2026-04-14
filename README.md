@@ -1,19 +1,17 @@
-🧾 User Story: Task Management
+Project Title: Simple Online Store
 
-Title: Manage personal tasks
+Description:
+A web application where users can browse products, add them to a cart, and place an order. 
+The system is built with:
+
+Spring Boot (backend)
+Frontend (HTML/JS)
+Database running in Docker using PostgreSQL
+
+🧾 Main User Story
+
+Title: Purchase products through an online store
 
 As a user
-I want to create, view, update, and delete my tasks
-So that I can keep track of what I need to do and stay organized
-
-Features
-1-Create Task
-  User can add a new task with a title and description
-  Task is saved in the system
-2-View Tasks
-  User can see a list of all tasks
-  Each task shows title, description, and completion status
-3-Update Task
-  User can mark a task as completed or edit its details
-4-Delete Task
-  User can remove a task from the lis
+I want to browse products, add them to a shopping cart, and place an order
+So that I can easily buy items online
