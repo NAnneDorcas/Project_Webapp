@@ -5,7 +5,7 @@ A web application where users can browse products, add them to a cart, and place
 The system is built with:
 
 Spring Boot (backend)
-Frontend (HTML/JS)
+Frontend (ReactJs)
 Database running in Docker using PostgreSQL
 
 🧾 Main User Story
