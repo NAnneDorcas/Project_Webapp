@@ -13,5 +13,17 @@ Database running in Docker using PostgreSQL
 Title: Purchase products through an online store
 
 As a user
-I want to browse products, add them to a shopping cart, and place an order
-So that I can easily buy items online
+I want to view a list of available products
+So that I can see what items I can purchase
+
+As a user
+I want to add products to a shopping cart
+So that I can collect items before purchasing them
+
+As a user
+I want to view my shopping cart and update quantities or remove items
+So that I can control what I am going to buy before checkout
+
+As a user
+I want to place an order for the items in my cart
+So that I can complete my purchase
