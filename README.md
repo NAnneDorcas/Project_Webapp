@@ -20,6 +20,12 @@ As a user
 I want to add products to a shopping cart
 So that I can collect items before purchasing them
 
+As an Admin I want to be able to add products to the online store
+So that customers gets information about any new products 
+
+As a user I want to know the amount of items available in stock 
+so i can make a purchase seemlessly 
+
 As a user
 I want to view my shopping cart and update quantities or remove items
 So that I can control what I am going to buy before checkout
